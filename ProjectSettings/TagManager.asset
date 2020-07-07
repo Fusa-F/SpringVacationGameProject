@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Punch
+  - Block
+  - Ground
+  - Item
+  - BlockBottom
+  - Wall
+  - Block_00
+  - Block_01
+  - Block_02
+  - Block_03
+  - Block_04
+  - Block_05
+  - Block_06
+  - Block_07
+  - Block_08
+  - Block_09
+  - Operator_plus
+  - Operator_minus
+  - Operator_times
+  - Operator_divide
+  - Operator_percent
+  - Operator_equal
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - block
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
